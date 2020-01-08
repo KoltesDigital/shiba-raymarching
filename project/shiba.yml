@@ -1,0 +1,5 @@
+name: raymarching
+# executable-linker:
+#   tool: crinkler
+# shader-minifier:
+#   tool: shader-minifier
